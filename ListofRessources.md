@@ -17,7 +17,7 @@ List of ressources to learn about open data
 
 **What are the uses of open data?**
 
-* World: [25 cases of open data impact](http://odimpact.org/), [OpenData 500 for open data uses by companies](http://www.opendata500.com/) 
+* World: [25 cases of open data impact](http://odimpact.org/), [12 value stories](http://opendatahandbook.org/value-stories/en/), [OpenData 500 for open data uses by companies](http://www.opendata500.com/) 
 * France: [1400+ reuses of open data](https://www.data.gouv.fr/fr/dashboard/), [National Addresses Database](https://adresse.data.gouv.fr/)
 * Denmark: [The value of Danish address data - 2010](http://www.adresse-info.dk/Portals/2/Benefit/Value_Assessment_Danish_Address_Data_UK_2010-07-07b.pdf)
 
@@ -26,3 +26,8 @@ List of ressources to learn about open data
 **What are the controversies around open data**
 
 **What is the next frontier for open data?**
+
+**What is inspiring the open data community?**
+
+* TED Talks: [Tim Berners-Lee: The year open data went worldwide](http://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide?) [Pia Mancini: How to upgrade democracy for the Internet era](https://www.youtube.com/watch?v=NXfYNdapq3Q), [David Cameron:The next age of governement](Tim Berners-Lee: The year open data went worldwide), [Jennifer Pahlka: Coding a better government](https://www.ted.com/talks/jennifer_pahlka_coding_a_better_government), [Haley Van Dyck: How a start-up in the White House is changing business as usual](https://www.ted.com/talks/haley_van_dyck_how_a_start_up_in_the_white_house_is_changing_business_as_usual), [Ben Wellington: How we found the worst place to park in New York City using big data](https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data)
+* Blogs & Newsletter: [I Quant NY](http://iquantny.tumblr.com/), [Open Heroines](https://medium.com/open-heroines), [Blog Henri Verdier](http://www.henriverdier.com), [Medium Jennifer Pahlka](https://medium.com/@pahlkadot), [French KPI](http://www.frenchkpi.com/), [Sunlight Foundation Newsletter](https://sunlightfoundation.com/blog/2014/11/14/introducing-today-in-opengov-our-new-morning-newsletter/), [Data Colada Newsletter](http://datacolada.launchrock.com/)

@@ -32,9 +32,13 @@ List of ressources to learn about open data
 * United Kingdom: [Transparency team in the Governement Digital Service](https://gds.blog.gov.uk/), [Open Data Institute](http://theodi.org/), [Open Knowledge](https://okfn.org/), [mySociety](https://www.mysociety.org/)
 * United States: [Office of Science and Technology Policy](), [United States Digital Service](https://www.usds.gov/), [18F](https://18f.gsa.gov/), [Sunlight Foundation](https://www.whitehouse.gov/administration/eop/ostp/blog), [Code for America](https://www.codeforamerica.org/), [What Works City - Bloomberg](http://whatworkscities.bloomberg.org/), [MapBox](https://www.mapbox.com/)
 
-**What are the controversies around open data**
-
 **What is the next frontier for open data?**
+
+* Ensuring quality and accessibility of the data: [data.gouv.fr 31 décembre 2015](https://www.etalab.gouv.fr/data-gouv-fr-31-decembre-2015)
+* Opening up more third party data from corporations and NGOs: [OpenAsso](https://www.etalab.gouv.fr/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees), [Tesla Motors on Data.gouv.fr](https://www.data.gouv.fr/fr/organizations/tesla-motors/#datasets)
+* Shifting from opening data to opening source code: [Code.gov](https://code.gov/), [CodeImpot](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots) 
+* Opening the governement itself: [Open Governement Partnership](http://www.opengovpartnership.org/), [Trends in Civic Tech](http://www.knightfoundation.org/features/civictech/)
+
 
 **What is inspiring the open data community?**
 

@@ -20,8 +20,14 @@ List of ressources to learn about open data
 * World: [25 cases of open data impact](http://odimpact.org/), [12 value stories](http://opendatahandbook.org/value-stories/en/), [OpenData 500 for open data uses by companies](http://www.opendata500.com/) 
 * France: [1400+ reuses of open data](https://www.data.gouv.fr/fr/dashboard/), [National Addresses Database](https://adresse.data.gouv.fr/)
 * Denmark: [The value of Danish address data - 2010](http://www.adresse-info.dk/Portals/2/Benefit/Value_Assessment_Danish_Address_Data_UK_2010-07-07b.pdf)
+* United States: [College Scorecard](https://collegescorecard.ed.gov/)
 
 **Who are the main actors of open data ?**
+
+* World: [Open Knowledge](https://okfn.org/), [Open Data Institute](http://theodi.org/), [Web Foundation](http://webfoundation.org/), [The GovLab](http://www.thegovlab.org/), [Omidyar Network](https://www.omidyar.com/), [Open Governement Partnership](http://www.opengovpartnership.org/), [GODAN](http://www.godan.info/), [OpenStreetMap](http://openstreetmap.fr/), [Publish what you fund](http://www.publishwhatyoufund.org/), [Publish what you pay](http://www.publishwhatyoupay.org), [Open Contracting](http://www.open-contracting.org/), [OpenCorporates](https://opencorporates.com/), [Socrata](https://socrata.com/), [School of Data](http://schoolofdata.org/)
+* France: [Etalab](https://www.etalab.gouv.fr/), [CADA](http://www.cada.fr/), [COEPIA](http://www.gouvernement.fr/coepia), [HATVP](), [Cour des comptes](https://www.data.gouv.fr/fr/organizations/cour-des-comptes/#datasets), [Regards citoyens](https://www.regardscitoyens.org/#&panel1-1),  [OpenDataSoft](https://www.opendatasoft.fr/), [Open Law](http://openlaw.fr/index.php?title=Open_Law,_le_Droit_Ouvert), [Open Data France](http://www.opendatafrance.net/), [Libertic](https://libertic.wordpress.com/libertic/), [Démocratie ouverte](http://democratieouverte.org/), [Open Knowledge France](http://fr.okfn.org/), [FING](http://fing.org/), [OpenFoodFacts](http://fr.openfoodfacts.org/)
+* United Kingdom: [Transparency team in the Governement Digital Service](https://gds.blog.gov.uk/), [Open Data Institute](http://theodi.org/), [Open Knowledge](https://okfn.org/), [mySociety](https://www.mysociety.org/)
+* United States: [Office of Science and Technology Policy](), [United States Digital Service](https://www.usds.gov/), [18F](https://18f.gsa.gov/), [Sunlight Foundation](https://www.whitehouse.gov/administration/eop/ostp/blog), [Code for America](https://www.codeforamerica.org/), [What Works City - Bloomberg](http://whatworkscities.bloomberg.org/), [MapBox](https://www.mapbox.com/)
 
 **What are the controversies around open data**
 

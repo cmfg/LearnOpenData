@@ -38,10 +38,11 @@ List of ressources to learn about open data
 
 **What is the next frontier for open data?**
 
-* Ensuring quality and accessibility of the data: [data.gouv.fr 31 décembre 2015](https://www.etalab.gouv.fr/data-gouv-fr-31-decembre-2015)
+* Ensuring quality and accessibility of the data: [data.gouv.fr 31 décembre 2015](https://www.etalab.gouv.fr/data-gouv-fr-31-decembre-2015), [api.gouv.fr](https://api.gouv.fr/)
 * Opening up more third party data from corporations and NGOs: [OpenAsso](https://www.etalab.gouv.fr/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees), [Tesla Motors on Data.gouv.fr](https://www.data.gouv.fr/fr/organizations/tesla-motors/#datasets)
+* Combining open data and datascience: [2015 Report of France's CDO](https://agd.data.gouv.fr/2016/07/13/frances-chief-data-officer-report-on-data-governance/) 
 * Shifting from opening data to opening source code: [Code.gov](https://code.gov/), [CodeImpot](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots) 
-* Opening the governement itself: [Open Governement Partnership](http://www.opengovpartnership.org/), [Trends in Civic Tech](http://www.knightfoundation.org/features/civictech/)
+* Opening the governement itself: [Open Governement Partnership](http://www.opengovpartnership.org/), [OGP Toolbox](http://edit.ogptoolbox.org/fr/), [Trends in Civic Tech](http://www.knightfoundation.org/features/civictech/)
 
 **What is inspiring the open data community?**
 

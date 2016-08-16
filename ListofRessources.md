@@ -11,7 +11,9 @@ List of ressources to learn about open data
 
 **Where open data can be found?**
 
-* World: [List of 2600+ open data portals by OpenDataSoft](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
+* World: [List of 2600+ open data portals by OpenDataSoft](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/), [A list of high-quality open datasets in public domains](https://github.com/caesar0301/awesome-public-datasets)
+* Rankings: [Open Data Index](http://index.okfn.org/), [Open Data Barometer](http://opendatabarometer.org/), [OECD OURData Index](http://www.oecd.org/gov/digital-government/open-government-data.htm)
+* France: [Data.gouv](https://www.data.gouv.fr/fr/), [Other portals](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/#/france)  
 
 **What are the uses of open data?**
 

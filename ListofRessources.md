@@ -9,7 +9,7 @@ List of ressources to learn about open data
 * United Kingdom: [Freedom of Information Act - 2010](http://www.legislation.gov.uk/ukpga/2000/36/contents), [Power of Information Taskforce Report - 2009](https://ntouk.files.wordpress.com/2015/06/poit-report-final-pdf.pdf), [UK Open Government Licence - 2010](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/) 
 * United States: [Freedom of Information Act - 1966](https://www.justice.gov/jmd/freedom-information-act-pl-89-487), [Executive Order Making Open and Machine Readable the New Default for Government Information - 2013](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-), [Project Open Data - 2013](https://www.whitehouse.gov/blog/2013/05/16/introducing-project-open-data)
 
-** How to open data?**
+**How to open data?**
 
 * Guides: [Open Data Getting Started Guide](https://centerforgov.gitbooks.io/open-data-getting-started/content/), [Open Data Handbook](http://opendatahandbook.org/)
 * France: [Data.gouv.fr FAQ](), [Vade-mecum sur l’ouverture et le partage des données publiques - 2013](http://www.opendatafrance.net/wp-content/uploads/2016/01/Vademecum_Ouverture_Etalab.pdf)

@@ -1,4 +1,4 @@
-List of ressources to learn about open data 
+List of resources to learn about open data 
 ==
 
 **What's the definition and legal framework of open data ?**

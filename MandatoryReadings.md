@@ -11,14 +11,15 @@ List of mandatory readings
 * Open in your browser [www.data.gouv.fr](http://www.data.gouv.fr/fr/), [www.data.gov](https://www.data.gov/), [data.gov.uk](https://data.gov.uk/) and compare their design, scope, functionalities
 
 ### What are the uses of open data?
-* [How Open data saved Canada $3.2 Billion](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/)
+* [How Open data saved Canada $3.2 Billion - 2010](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/)
+* [La carte de (presque) tous les accidents de la route - 2012](http://rue89.nouvelobs.com/2014/06/25/carte-presque-tous-les-accidents-route-2012-253113)]
 * [Why data was crucial to Burkina Faso’s first election since uprising - 2015](https://www.theguardian.com/news/datablog/2015/dec/04/why-data-was-crucial-to-burkina-fasos-first-election-since-uprising)
 
 ### Who are the main actors of open data ?
 * Search [Open Data Institute](http://theodi.org/) and [Regards citoyens](https://www.regardscitoyens.org/#&panel1-1) and think about their approach and scope
 
 ### What is the next frontier for open data?
-* From open data to opening source code: [The case of #CodeImpot](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots)
+* From open data to opening source code: [The case of #CodeImpot - 2016](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots)
 
 ### What is inspiring the open data community?
 * [The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year- Open Data Just Put an End to It - 2016](http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally)
@@ -39,14 +40,15 @@ Liste des lectures obligatoires
 * Ouvrir dans votre navigateur [www.data.gouv.fr](http://www.data.gouv.fr/fr/), [www.data.gov](https://www.data.gov/), [data.gov.uk](https://data.gov.uk/) et comparer les designs, contenus, fonctionnalités 
 
 ### Quels sont les usages de l'open data ? 
-* [How Open data saved Canada $3.2 Billion](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/)
+* [How Open data saved Canada $3.2 Billion - 2010](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/)
+* [La carte de (presque) tous les accidents de la route - 2012](http://rue89.nouvelobs.com/2014/06/25/carte-presque-tous-les-accidents-route-2012-253113)]
 * [Why data was crucial to Burkina Faso’s first election since uprising - 2015](https://www.theguardian.com/news/datablog/2015/dec/04/why-data-was-crucial-to-burkina-fasos-first-election-since-uprising)
 
 ### Quels sont les acteurs de la communauté open data ? 
 * Chercher [Open Data Institute](http://theodi.org/) et [Regards citoyens](https://www.regardscitoyens.org/#&panel1-1) et penser à leurs approches et modèles 
 
 ### Quel sont les perspectives de l'open data ? 
-* De l'open data à l'open source : [Le cas de #CodeImpot](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots)
+* De l'open data à l'open source : [Le cas de #CodeImpot - 2016](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots)
 
 ### Qu'est ce qui inspire la communauté open data ? 
 * [The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year - 2016](http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally)

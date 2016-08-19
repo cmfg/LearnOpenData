@@ -12,7 +12,7 @@ List of mandatory readings
 
 ### What are the uses of open data?
 * [How Open data saved Canada $3.2 Billion - 2010](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/)
-* [La carte de (presque) tous les accidents de la route - 2012](http://rue89.nouvelobs.com/2014/06/25/carte-presque-tous-les-accidents-route-2012-253113)]
+* [La carte de (presque) tous les accidents de la route - 2012](http://rue89.nouvelobs.com/2014/06/25/carte-presque-tous-les-accidents-route-2012-253113)
 * [Why data was crucial to Burkina Faso’s first election since uprising - 2015](https://www.theguardian.com/news/datablog/2015/dec/04/why-data-was-crucial-to-burkina-fasos-first-election-since-uprising)
 
 ### Who are the main actors of open data ?
@@ -41,7 +41,7 @@ Liste des lectures obligatoires
 
 ### Quels sont les usages de l'open data ? 
 * [How Open data saved Canada $3.2 Billion - 2010](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/)
-* [La carte de (presque) tous les accidents de la route - 2012](http://rue89.nouvelobs.com/2014/06/25/carte-presque-tous-les-accidents-route-2012-253113)]
+* [La carte de (presque) tous les accidents de la route - 2012](http://rue89.nouvelobs.com/2014/06/25/carte-presque-tous-les-accidents-route-2012-253113)
 * [Why data was crucial to Burkina Faso’s first election since uprising - 2015](https://www.theguardian.com/news/datablog/2015/dec/04/why-data-was-crucial-to-burkina-fasos-first-election-since-uprising)
 
 ### Quels sont les acteurs de la communauté open data ? 

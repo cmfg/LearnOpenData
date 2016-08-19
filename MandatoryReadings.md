@@ -21,7 +21,7 @@ List of mandatory readings
 * From open data to opening source code: [The case of #CodeImpot](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots)
 
 ### What is inspiring the open data community?
-* (The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year- Open Data Just Put an End to It - 2016)[http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally]
+* [The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year- Open Data Just Put an End to It - 2016](http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally)
 * [Non, les données ne sont pas du pétrole... - 2013](http://www.henriverdier.com/2013/03/non-les-donnees-ne-sont-pas-du-petrole.html)
 
 _______________________________________________________________________________________________________________________________
@@ -49,5 +49,5 @@ Liste des lectures obligatoires
 * De l'open data à l'open source : [Le cas de #CodeImpot](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots)
 
 ### Qu'est ce qui inspire la communauté open data ? 
-* (The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year - 2016)[http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally]
+* [The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year - 2016](http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally)
 * [Non, les données ne sont pas du pétrole... - 2013](http://www.henriverdier.com/2013/03/non-les-donnees-ne-sont-pas-du-petrole.html)

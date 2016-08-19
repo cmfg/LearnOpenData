@@ -3,7 +3,7 @@ List of mandatory readings
 
 *[OpenDataResources.md](https://github.com/cmfg/LearnOpenData/blob/master/OpenDataResources.md) is an extensive list of resources on open data. Reading all of them is facultative. You will find below the required readings to prepare for the Septembre 12 class. French version below!* 
 
-### What's the definition and legal framework of open data ? / Quelles est la définition et le cadre juridique de l'open data ? 
+### What's the definition and legal framework of open data ? 
 * [G8 Open Data Charter - 2013](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
 * [Décret portant création d'une mission « Etalab » - 2011](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619063&categorieLien=id)
 

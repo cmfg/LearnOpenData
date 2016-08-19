@@ -1,5 +1,4 @@
 #Learn Open Data 
-==
 
 On Sept. 12, [Laure Lucchesi](https://twitter.com/laurelucchesi) and [Claire Foulquier-Gazagnes](https://twitter.com/_cmfg) from [Etalab](https://www.etalab.gouv.fr/) will teach a class at [SciencesPo](http://www.sciencespo.fr/) on open data. 
 
@@ -10,7 +9,7 @@ To prepare the class, this repository contains two documents:
 These are contributive resources: please feel free to contribute to *OpenDataResources.md* in doing a [pull request](https://help.github.com/articles/using-pull-requests/). 
 _________________________________________________________________________________________________________________________________
 Apprendre l'open data
-==
+=
 
 Le 12 septembre, [Laure Lucchesi](https://twitter.com/laurelucchesi) et [Claire Foulquier-Gazagnes](https://twitter.com/_cmfg) d'[Etalab](https://www.etalab.gouv.fr/) enseigneront un cours à [SciencesPo](http://www.sciencespo.fr/) sur l'open data.
 

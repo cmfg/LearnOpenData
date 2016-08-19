@@ -27,7 +27,7 @@ List of resources to learn about open data
 * World: [25 cases of open data impact](http://odimpact.org/), [12 value stories](http://opendatahandbook.org/value-stories/en/), [OpenData 500 for open data uses by companies](http://www.opendata500.com/), [McKinsey Report on Open Data - 2013](http://www.mckinsey.com/business-functions/business-technology/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information), [The Economist Out of the Box - 2015](http://www.economist.com/news/international/21678833-open-data-revolution-has-not-lived-up-expectations-it-only-getting) 
 * France: [1400+ reuses of open data](https://www.data.gouv.fr/fr/dashboard/), [National Addresses Database](https://adresse.data.gouv.fr/), [La carte de (presque) tous les accidents de la route - 2012](http://rue89.nouvelobs.com/2014/06/25/carte-presque-tous-les-accidents-route-2012-253113)
 * Denmark: [The value of Danish address data - 2010](http://www.adresse-info.dk/Portals/2/Benefit/Value_Assessment_Danish_Address_Data_UK_2010-07-07b.pdf)
-* United States: [College Scorecard](https://collegescorecard.ed.gov/)
+* United States: [College Scorecard](https://collegescorecard.ed.gov/), [How the Department of Justice used data to hold Baltimore police accountable - 2016](http://sunlightfoundation.com/blog/2016/08/17/how-the-doj-used-data-to-hold-baltimore-police-accountable/)
 * Canada: [Case Study: How Open data saved Canada $3.2 Billion - 2010](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/)
 * Burkina Faso: [Why data was crucial to Burkina Faso’s first election since uprising - 2015](https://www.theguardian.com/news/datablog/2015/dec/04/why-data-was-crucial-to-burkina-fasos-first-election-since-uprising)
 

@@ -21,7 +21,7 @@ List of resources to learn about open data
 * World: [List of 2600+ open data portals by OpenDataSoft](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/), [A list of high-quality open datasets in public domains](https://github.com/caesar0301/awesome-public-datasets)
 * Rankings: [Open Data Index](http://index.okfn.org/), [Open Data Barometer](http://opendatabarometer.org/), [OECD OURData Index](http://www.oecd.org/gov/digital-government/open-government-data.htm), [US Cities Open Data Census](http://us-city.census.okfn.org/)
 * France: [Data.gouv](https://www.data.gouv.fr/fr/), [Other portals](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/#/france)  
-* United States: [Open Data Policy Map](https://sunlightfoundation.com/policy/opendatamap/), 
+* United States: [Open Data Policy Map](https://sunlightfoundation.com/policy/opendatamap/)
 
 ### What are the uses of open data?
 
@@ -37,7 +37,7 @@ List of resources to learn about open data
 * World: [Open Knowledge](https://okfn.org/), [Open Data Institute](http://theodi.org/), [Web Foundation](http://webfoundation.org/), [The GovLab](http://www.thegovlab.org/), [Omidyar Network](https://www.omidyar.com/), [Open Governement Partnership](http://www.opengovpartnership.org/), [GODAN](http://www.godan.info/), [OpenStreetMap](http://openstreetmap.fr/), [Publish what you fund](http://www.publishwhatyoufund.org/), [Publish what you pay](http://www.publishwhatyoupay.org), [Open Contracting](http://www.open-contracting.org/), [OpenCorporates](https://opencorporates.com/), [Socrata](https://socrata.com/), [School of Data](http://schoolofdata.org/)
 * France: [Etalab](https://www.etalab.gouv.fr/), [CADA](http://www.cada.fr/), [COEPIA](http://www.gouvernement.fr/coepia), [HATVP](), [Cour des comptes](https://www.data.gouv.fr/fr/organizations/cour-des-comptes/#datasets), [Regards citoyens](https://www.regardscitoyens.org/#&panel1-1),  [OpenDataSoft](https://www.opendatasoft.fr/), [Open Law](http://openlaw.fr/index.php?title=Open_Law,_le_Droit_Ouvert), [Open Data France](http://www.opendatafrance.net/), [Libertic](https://libertic.wordpress.com/libertic/), [Démocratie ouverte](http://democratieouverte.org/), [Open Knowledge France](http://fr.okfn.org/), [FING](http://fing.org/), [OpenFoodFacts](http://fr.openfoodfacts.org/)
 * United Kingdom: [Transparency team in the Governement Digital Service](https://gds.blog.gov.uk/), [Open Data Institute](http://theodi.org/), [Open Knowledge](https://okfn.org/), [mySociety](https://www.mysociety.org/)
-* United States: [Office of Science and Technology Policy](), [United States Digital Service](https://www.usds.gov/), [18F](https://18f.gsa.gov/), [Sunlight Foundation](https://www.whitehouse.gov/administration/eop/ostp/blog), [Code for America](https://www.codeforamerica.org/), [What Works City - Bloomberg](http://whatworkscities.bloomberg.org/), [MapBox](https://www.mapbox.com/), [GovEx](http://govex.jhu.edu/)
+* United States: [Office of Science and Technology Policy](), [United States Digital Service](https://www.usds.gov/), [18F](https://18f.gsa.gov/), [Sunlight Foundation](https://www.whitehouse.gov/administration/eop/ostp/blog), [Code for America](https://www.codeforamerica.org/), [What Works Cities - Bloomberg](http://whatworkscities.bloomberg.org/), [MapBox](https://www.mapbox.com/), [GovEx](http://govex.jhu.edu/)
 
 ### What is the next frontier for open data?
 

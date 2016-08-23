@@ -12,7 +12,7 @@ List of resources to learn about open data
 
 ### How to open data?
 
-* Guides: [Open Data Getting Started Guide](https://centerforgov.gitbooks.io/open-data-getting-started/content/), [Open Government Data The Book - 2014](https://opengovdata.io/) [Open Data Handbook](http://opendatahandbook.org/), [21 guides from the Open Data Institute](https://theodi.org/guides)
+* Guides: [Open Data Getting Started Guide](https://centerforgov.gitbooks.io/open-data-getting-started/content/), [Open Government Data The Book - 2014](https://opengovdata.io/) [Open Data Handbook](http://opendatahandbook.org/), [21 guides from the Open Data Institute](https://theodi.org/guides), [Open Data Glossary by OpenDataFrance](http://www.opendatafrance.net/wp-content/uploads/2016/06/guideOD_communes_glossaire_juin2016_Web.pdf)
 * Elearning: [Open Data in a Day](http://training.theodi.org/InADay/#/id/co-01), [European Data Portal](https://www.europeandataportal.eu/en/training-library/elearning)
 * France: [Data.gouv.fr FAQ](), [Vade-mecum sur l’ouverture et le partage des données publiques - 2013](http://www.opendatafrance.net/wp-content/uploads/2016/01/Vademecum_Ouverture_Etalab.pdf), Opening Data in Cultural Institutions in France, Rapport Open GLAM (_GLAM : Galleries, Libraries, Archives, Museums_) : [Recommandations pour l’ouverture des données et des contenus culturels](http://www.donneeslibres.info)
 

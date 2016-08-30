@@ -5,13 +5,13 @@
 Vous pouvez réutiliser « l’Information » rendue disponible par le « Producteur » dans les libertés
 et les conditions prévues par la présente licence.
 
-#La réutilisation de l’Information diffusée sous cette licence
+##La réutilisation de l’Information diffusée sous cette licence
 
 Le « Producteur » garantit au « Réutilisateur » le droit personnel, non exclusif et gratuit, de réutilisation
 de « l’Information » soumise à la présente licence, dans le monde entier et pour une durée illimitée, dans
 les libertés et les conditions exprimées ci-dessous.
 
-#Vous êtes libre de réutiliser « l’Information » :
+##Vous êtes libre de réutiliser « l’Information » :
 
 •	 Reproduire, copier, publier et transmettre « l’Information » ;
 •	 Diffuser et redistribuer « l’Information » ;
@@ -21,7 +21,7 @@ notamment pour créer des « Informations dérivées » ;
 avec d’autres « Informations », ou en l’incluant dans votre propre produit
 ou application.
 
-#Sous réserve de :
+##Sous réserve de :
 
 •	 Mentionner la paternité de « l’Information » : sa source (a minima le nom du « Producteur »)
 et la date de sa dernière mise à jour.
@@ -31,7 +31,7 @@ Cette mention de paternité ne doit ni conférer un caractère officiel à la r�
 ni suggérer une quelconque reconnaissance ou caution par le « Producteur », ou par toute autre
 entité publique, du « Réutilisateur » ou de sa réutilisation.
 
-#Responsabilité
+##Responsabilité
 
 « L’Information » est mise à disposition telle que produite ou reçue par le « Producteur », sans autre
 garantie expresse ou tacite qui n’est pas prévue par la présente licence.
@@ -43,7 +43,7 @@ ou dommage de quelque sorte causé à des tiers du fait de la réutilisation.
 Le « Réutilisateur » est le seul responsable de la réutilisation de « l’Information ». La réutilisation ne doit
 pas induire en erreur des tiers quant au contenu de « l’Information », sa source et sa date de mise à jour.
 
-#Droits de propriété intellectuelle
+##Droits de propriété intellectuelle
 
 Le « Producteur » garantit que « l’Information » ne contient pas de droits de propriété intellectuelle
 appartenant à des tiers.
@@ -54,7 +54,7 @@ le « Producteur » détient des « Droits de propriété intellectuelle » sur 
 et pour toute la durée des « Droits de propriété intellectuelle », au « Réutilisateur » qui peut en faire
 tout usage conformément aux libertés et aux conditions définies par la présente licence.
 
-#Compatibilité de la présente licence
+##Compatibilité de la présente licence
 
 Pour faciliter la réutilisation des « Informations », cette licence a été conçue pour être compatible avec
 toute licence libre qui exige a minima la mention de paternité. Elle est notamment compatible avec les
@@ -62,11 +62,11 @@ licences « Open Government Licence » (OGL) du Royaume-Uni, « Creative Commons
 (CC-BY 2.0) de Creative Commons et « Open Data Commons Attribution » (ODC-BY) de l’Open
 Knowledge Foundation.
 
-#Droit applicable
+##Droit applicable
 
 La présente licence est régie par le droit français.
 
-#Définitions
+##Définitions
 
 Droits de propriété intellectuelle*
 Il s’agit des droits identifiés comme tels par le Code
@@ -86,7 +86,7 @@ qui ont été créés soit directement
 « d’Informations » et d’autres données ou informations
 qui ne seraient pas soumises à cette licence.
 
-#À propos de la LICENCE OUVERTE
+##À propos de la LICENCE OUVERTE
 
 Etalab est la mission chargée sous l’autorité du Premier ministre d’ouvrir le plus grand nombre
 de données publiques des administrations de l’Etat et de ses établissements publics. Elle a réalisé

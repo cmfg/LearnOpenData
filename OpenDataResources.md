@@ -23,6 +23,7 @@ List of resources to learn about open data
 * Rankings: [Open Data Index](http://index.okfn.org/), [Open Data Barometer](http://opendatabarometer.org/), [OECD OURData Index](http://www.oecd.org/gov/digital-government/open-government-data.htm), [US Cities Open Data Census](http://us-city.census.okfn.org/)
 * France: [Data.gouv](https://www.data.gouv.fr/fr/), [Other portals](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/#/france)  
 * United States: [Open Data Policy Map](https://sunlightfoundation.com/policy/opendatamap/)
+* Research : [What's Wrong with Open-Data Sites--and How We Can Fix Them](http://blogs.scientificamerican.com/guest-blog/what-s-wrong-with-open-data-sites-and-how-we-can-fix-them/)
 
 ### What are the uses of open data?
 

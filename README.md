@@ -1,6 +1,6 @@
 #Learn Open Data 
 
-The repository was intended for a class at at [SciencesPo](http://www.sciencespo.fr/) on open data taéught on Sept. 12 2016 by [Laure Lucchesi](https://twitter.com/laurelucchesi) and [Claire Foulquier-Gazagnes](https://twitter.com/_cmfg). 
+The repository was intended for a class at at [SciencesPo](http://www.sciencespo.fr/) on open data taught on Sept. 12 2016 by [Laure Lucchesi](https://twitter.com/laurelucchesi) and [Claire Foulquier-Gazagnes](https://twitter.com/_cmfg). 
 
 It contains two documents:
 * [*MandatoryReadings.md*](https://github.com/cmfg/LearnOpenData/blob/master/MandatoryReadings.md): A list of mandatory readings that Sciences Po students had to read to prepare for the class
